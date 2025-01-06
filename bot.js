@@ -1,6 +1,6 @@
 
 require("dotenv").config();
-const TelegramBot = require("node-telegram-bot-api");
+const TelegramBot = require("8100710121:AAGaJ0XNKuJRn78ekEjqx5T2LmRUyG0HNN8");
 const sqlite3 = require("sqlite3").verbose();
 
 // Initialize Telegram Bot
